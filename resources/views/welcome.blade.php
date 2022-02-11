@@ -1,0 +1,1 @@
+{id:1, name: 'MacBook', artikul: '54f', category: 'notebook', weight: 1.2, ownprice: 300000, status: 'new', adddate: '06.02.2020'}
